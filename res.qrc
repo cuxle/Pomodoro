@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/images/pomodoro.jpg</file>
+        <file>res/images/pomodoro.ico</file>
+        <file>res/images/background.jpg</file>
+        <file>res/audio/music.mp3</file>
+        <file>res/images/pp.png</file>
+        <file>res/images/pp.ico</file>
+    </qresource>
+</RCC>
