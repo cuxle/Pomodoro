@@ -6,12 +6,12 @@ https://en.wikipedia.org/wiki/Pomodoro_Technique
 可以放一首歌，弹出一个窗口，或者别的
 
 2. 可以最小化到系统托盘
-3. 点击X，关闭窗口界面时，弹出对话框，是推出还是关闭
+3. 点击X，关闭窗口界面时，弹出对话框，是退出还是关闭
 
 # This little software's idea comes from the concept of Pomodoro , aimming to make us learn and work more effectively
 https://en.wikipedia.org/wiki/Pomodoro_Technique
 
-# Base Idea:
+# Basic Idea:
 1. Create a timer of 25 minites, from every concentrate period begging, start the 25-mins timer ticking, 
 once the timer runs out, it will cause an event, play a song, popup a window,  or something else
 2. The Software can be minimized to the system tray
